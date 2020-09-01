@@ -4,7 +4,7 @@
     alt="Love Programming"
     width="30"
   />
-   I'm Full Stack Developer
+   I'm a Full Stack Developer
 </h1>
 
 <a href="https://linkedin.com/in/felipe-vieira-da-silva-7a9146188/">
