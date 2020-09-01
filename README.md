@@ -1,4 +1,27 @@
-# Full-Stack Developer
-[![Linkedin Badge](https://img.shields.io/badge/-felipevieiraa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-vieira-da-silva-7a9146188/)](https://www.linkedin.com/in/felipe-vieira-da-silva-7a9146188/)  [![Gmail Badge](https://img.shields.io/badge/-felipezimba8228@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipezimba8228@gmail.com)](mailto:felipezimba8228@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998090400)](https://api.whatsapp.com/send?phone=5548998090400)
+<h1>
+  <img 
+    src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+    alt="Love Programming"
+  />
+   I'm Full Stack Developer
+</h1>
 
-:computer:  I'm Felipe. I'm from Imbituba-SC, Brazil. I work as a Full Stack Developer for the Apps Company.
+<a href="https://linkedin.com/in/felipe-vieira-da-silva-7a9146188/">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://instagram.com/cs.orlandi">
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:felipezimba8228@gmail.com">
+  <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5548998090400">
+  <img src="https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white">
+</a>
+
+<ul>
+  <li>:boy: I'm Felipe. I'm from <b>Imbituba-SC, Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>;</li>
+  <li>:computer: I work as a Full Stack Developer :zap: for the Apps Company.</li>
+</ul>
+
+> “Do you need a developer?”
