@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5548998090400">
-  <img src="https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white">
+  <img src="https://img.shields.io/badge/-WhatsApp-26B03D?style=for-the-badge&logo=WhatsApp&logoColor=white">
 </a>
 
 <ul>
