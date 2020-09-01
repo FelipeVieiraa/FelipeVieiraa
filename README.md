@@ -2,6 +2,7 @@
   <img 
     src="https://slackmojis.com/emojis/2080-love/download"
     alt="Love Programming"
+    width="30"
   />
    I'm Full Stack Developer
 </h1>
