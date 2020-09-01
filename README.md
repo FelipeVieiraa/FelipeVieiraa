@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/felipe-vieira-da-silva-7a9146188/">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://instagram.com/cs.orlandi">
+<a href="https://instagram.com/felipvieiraa_">
   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="mailto:felipezimba8228@gmail.com">
