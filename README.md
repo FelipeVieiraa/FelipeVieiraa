@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  :computer: Sou desenvolvedor Front End e iniciando como UX/UI Designer. Estou disponível para trabalhar imediatamente.
+  :computer: Sou desenvolvedor Front End e iniciando como UX/UI Designer. Estou disponível para trabalhar imediatamente.</br>
   <strong>OBS: </strong><p>também faço freela.</p></li>
 </p>
 
