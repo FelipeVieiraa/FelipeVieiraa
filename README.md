@@ -24,7 +24,5 @@
 
 <ul>
   <li>:boy: I'm Felipe. I'm from <b>Garopaba-SC, Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b> ;</li>
-  <li>:computer: I work as a Full Stack Developer :zap: for the Apps Company;</li>
+  <li>:computer: I work as a Front End Developer :zap: for the Apps Company;</li>
 </ul>
-
-> “Do you need a developer?”
