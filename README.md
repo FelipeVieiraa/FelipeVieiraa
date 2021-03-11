@@ -7,15 +7,18 @@
     Olá, sou o Felipe
 </h1>
 
-<ul>
-  <li>
-    Sou de
-    <b>Imbituba-SC, Brasil 
-      <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
-    </b>
-  </li>
-  <li>:computer: Sou desenvolvedor Front End e iniciando como UX/UI Designer</li>
-</ul>
+<p align="left">
+  Sou de
+  <b>
+    Imbituba-SC, Brasil
+    <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
+  </b>
+</p>
+
+<p>
+  :computer: Sou desenvolvedor Front End e iniciando como UX/UI Designer. Estou disponível para trabalhar imediatamente.
+  <li>OBS: <b>também faço freela.</b></li>
+</p>
 
 <a href="https://linkedin.com/in/felipe-vieira-da-silva-7a9146188/">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
